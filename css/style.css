@@ -27,9 +27,11 @@ ul { list-style:none; }
 
 .p-20p { padding: 20px; }
 .p-30p { padding: 30px; }
+.p-5 { padding: 5%; }
 .ptb-2 { padding: 2% 0; }
 .ptb-5 { padding: 5% 0; }
 .ptb-10 { padding: 10% 0; }
+.plr-5 { padding: 0 5%; }
 
 .b-radius-5p { border-radius: 5px; }
 
@@ -58,6 +60,12 @@ ul { list-style:none; }
 /**REGIONS**/
 
 .border-b-row { border-bottom: 1px solid rgba(255, 255, 255, 0.3); }
+
+/**QUOTE**/
+
+.quote img { width: 180px; }
+
+.border-light-grey { border: 1px solid #DDD; }
 
 /**TEXT STYLE AND COLORS**/
 
