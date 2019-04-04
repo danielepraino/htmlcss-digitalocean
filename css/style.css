@@ -27,7 +27,6 @@ ul { list-style:none; }
 
 .p-20p { padding: 20px; }
 .p-30p { padding: 30px; }
-.p-5 { padding: 5%; }
 .ptb-2 { padding: 2% 0; }
 .ptb-5 { padding: 5% 0; }
 .ptb-10 { padding: 10% 0; }
@@ -100,6 +99,11 @@ ul { list-style:none; }
 }
 
 .btn-border-blue:hover {
+  color: #FFF !important;
+  background-color: #0069ff !important;
+}
+
+.btn-white:hover {
   color: #FFF !important;
   background-color: #0069ff !important;
 }
