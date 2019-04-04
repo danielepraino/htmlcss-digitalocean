@@ -1,5 +1,5 @@
-img { height: 25px; }
 
+.navbar-brand img { width: 150px; }
 
 .navbar-nav {
   margin: 0.25%;
@@ -22,17 +22,18 @@ img { height: 25px; }
 
 .p-20p { padding: 20px; }
 .p-30p { padding: 30px; }
+.ptb-4 { padding: 4% 0; }
 .ptb-10 { padding: 10% 0; }
 
 .b-radius-5p { border-radius: 5px; }
 
 /**WELCOME LOGIN**/
 
-.welcome-login > .row, .login-google { position: relative; }
+.login-google { position: relative; }
 
 .welcome-text {
   position: absolute;
-  transform: translateY(30%);
+  transform: translateY(20%);
 }
 
 .login-google > i {
@@ -42,20 +43,30 @@ img { height: 25px; }
   transform: translate(0, 10%);
 }
 
+/**PARTNERS**/
+
+.partners img { width: 120px; }
+
+.partners ul > li { padding-left: 3%; }
+
 /**TEXT STYLE AND COLORS**/
 
 .opacity-07 { opacity: 0.7; }
 
+.font-15 { font-size: 15px; }
 .font-25 { font-size: 25px; }
 .font-60 { font-size: 60px; }
 .font-bold { font-weight: bold; }
 
 .text-white { color: #FFF; }
+.text-grey { color: #939EB4; }
+.text-blue { color: #0069ff; }
 .text-dark-blue { color: #031B4E; }
 
 /**BG COLORS**/
 
 .bg-white { background-color: #FFF; }
+.bg-light-grey { background-color: #F3F5F9; }
 .bg-blue { background-color: #0049FF; }
 .bg-green { background-color: #15cd72; }
 
