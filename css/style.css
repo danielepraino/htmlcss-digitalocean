@@ -1,0 +1,27 @@
+img { height: 25px; }
+
+
+.navbar-nav {
+  margin: 0.25%;
+  padding-left: 2%;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #031b4e;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #0069ff;
+}
+
+.btn-border-blue {
+  color: #0069ff !important;
+  background-color: none;
+  border: 1px solid #0069ff;
+}
+
+.btn-border-blue:hover {
+  color: #FFF !important;
+  background-color: #0069ff !important;
+}
