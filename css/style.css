@@ -66,6 +66,17 @@ ul { list-style:none; }
 
 .border-light-grey { border: 1px solid #DDD; }
 
+/**FOOTER**/
+
+footer img { width: 50px; }
+
+footer ul { padding: 0; }
+
+footer a {
+  color: #939EB4;
+  font-size: 16px;
+}
+
 /**TEXT STYLE AND COLORS**/
 
 .opacity-07 { opacity: 0.7; }
@@ -89,6 +100,7 @@ ul { list-style:none; }
 .bg-green { background-color: #15cd72; }
 .bg-blue { background-color: #0049FF; }
 .bg-dark-blue { background-color: #0F2656; }
+.bg-dark-blue2 { background-color: #010E28; }
 
 /**BUTTONS**/
 
