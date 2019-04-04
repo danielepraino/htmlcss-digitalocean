@@ -70,8 +70,9 @@
 
 .bg-white { background-color: #FFF; }
 .bg-light-grey { background-color: #F3F5F9; }
-.bg-blue { background-color: #0049FF; }
 .bg-green { background-color: #15cd72; }
+.bg-blue { background-color: #0049FF; }
+.bg-dark-blue { background-color: #0F2656; }
 
 /**BUTTONS**/
 
