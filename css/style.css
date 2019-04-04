@@ -17,12 +17,13 @@
 
 .w-100 { width: 100%; }
 
+.mb-2 { margin-bottom: 2%; }
 .mb-5 { margin-bottom: 5%; }
 .mtb-10 { margin: 10% 0; }
 
 .p-20p { padding: 20px; }
 .p-30p { padding: 30px; }
-.ptb-4 { padding: 4% 0; }
+.ptb-5 { padding: 5% 0; }
 .ptb-10 { padding: 10% 0; }
 
 .b-radius-5p { border-radius: 5px; }
@@ -54,6 +55,7 @@
 .opacity-07 { opacity: 0.7; }
 
 .font-15 { font-size: 15px; }
+.font-20 { font-size: 20px; }
 .font-25 { font-size: 25px; }
 .font-60 { font-size: 60px; }
 .font-bold { font-weight: bold; }
